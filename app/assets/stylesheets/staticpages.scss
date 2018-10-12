@@ -16,8 +16,10 @@ body {
 
 body {
     background-image: image-url('bg-mobile-fallback.jpg');
+    height: 100hv;
     background-position: cover;
     background-repeat: no-repeat;
+    background-position: center;
   }
 
 h1,
