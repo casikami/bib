@@ -15,7 +15,7 @@ body {
 }
 
 body {
-    background-image: url(bg-mobile-fallback.jpg);
+    background-image: image-url('bg-mobile-fallback.jpg');
     background-position: cover;
     background-repeat: no-repeat;
   }
